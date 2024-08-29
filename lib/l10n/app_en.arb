@@ -1,0 +1,10 @@
+{
+  "@@locale": "en",
+  "title": "Match Score",
+  "teamA": "A Team",
+  "teamB": "B Team",
+  "freeThrow": "Free throw",
+  "twoPoints": "2 Points",
+  "threePoints": "3 Points",
+  "undo": "Undo"
+}
